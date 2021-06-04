@@ -1,5 +1,7 @@
 # mifosx-docker
 
+[![Docker Hub](https://badgen.net/docker/pulls/oneacrefund/mifos-x?icon=docker)](https://hub.docker.com/r/oneacrefund/mifos-x)
+
 A Docker image for [MIFOS X](https://github.com/openMF/web-app) UI for [Apache Fineract](https://github.com/apache/fineract)
 
 Published on Docker Hub as [oneacrefund/mifos-x](https://hub.docker.com/r/oneacrefund/mifos-x)
